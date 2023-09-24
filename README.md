@@ -19,9 +19,9 @@ Uma aplicação web simples que permite aos usuários explorar informações sob
 
 1. Clone este repositório:
 
-   ```bash
-   git clone https://github.com/seu-usuario/pokedex-app.git
-   ```
+```bash
+git clone https://github.com/seu-usuario/pokedex-app.git
+```
 2. Navegue até o diretório do projeto:
 
 ```bash
