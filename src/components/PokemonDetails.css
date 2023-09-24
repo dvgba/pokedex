@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Card {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-items: center;
+    height: 100%;
+    color: black;
+    background-color: aliceblue;
+    padding: 32px 64px 32px 64px;
+}
+
+.Card h1 {   
+Color: #ff9b30;
+}
+.Card h1:hover {   
+    Color: black;
+    }
+
+button {
+    border: none;
+    height: 100%; 
+    width: 100%;
+    line-height: 36px; 
+    background-color: #ff9b30;
+    color: black;
+    font-weight: 700;
+}
+
+button:hover{
+    background-color: rgb(82, 82, 82);
+    color: #ddd;
+    font-weight: 700;
+}
